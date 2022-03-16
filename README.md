@@ -4,3 +4,4 @@ communication entre les deux entités.
 Sur le serveur on a des images ,le client va demander au serveur de récupérer ces
 images .Afin de transmettrer les données vous enverrez un bit de parité pair ou impair, et une somme de
 Fletcher sur deux octets.Quand vous recevrez les données vous devrez faire la vérification d'erreur
+ Tout d'abord on doit demarrer le server.py sur terminal et puis client.py dans un autre terminal . 
